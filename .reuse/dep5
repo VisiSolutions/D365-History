@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: D365 History
+Upstream-Contact: VisiMedia Ltd <oss@visimedia.co.uk>
+Source: https://github.com/VisiSolutions/D365-History
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
